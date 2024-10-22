@@ -1,0 +1,7 @@
+raw/*
+clean/*
+#!raw/README.txt
+#!clean/README.txt
+.Rhistory
+.DS_Store
+
